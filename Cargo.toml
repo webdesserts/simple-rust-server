@@ -1,0 +1,9 @@
+[package]
+name = "simple-rust-server"
+version = "1.0.0"
+authors = ["Michael Mullins <michael@webdesserts.com>"]
+
+[dependencies]
+iron = "*"
+rustc-serialize = "*"
+urlencoded = "*"
